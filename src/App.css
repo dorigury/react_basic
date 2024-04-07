@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+}
+
+.header {
+  background-color: #ff6347;
+  height: 50px;
+}
+
+.header a {
+  color: white;
+  text-decoration: none;
+  padding: 15px;
+}
+
+.home {
+  background-color: dodgerblue;
+  height: 300px
+}
+
+.page {
+  background-color: dodgerblue;
+  height: 300px;
+  color: white;
+}
+
+.footer {
+  background-color: #939697;
+  height: 50px;
+}
